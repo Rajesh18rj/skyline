@@ -18,7 +18,7 @@
     <div class="container" style='font-family: math;'>
         <div class="row">
             <div class="col-12">
-                <p>Every Year Elsevir International Publications (EIP) plan to felicitate the Higher Educational Institutions, Academicians, Research Scholars, and Young Engineers through the precious SIPH Award. You are warmly encouraged to join and build your profile. </p>
+                <p>Every Year Skyline Global Publications plan to felicitate the Higher Educational Institutions, Academicians, Research Scholars, and Young Engineers through the precious SIPH Award. You are warmly encouraged to join and build your profile. </p>
                 
                 <h4>Benefits of the Awards:</h4>
                 <ul>
@@ -96,22 +96,22 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-1.jpg">
+                            <img src="images/award.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-1.jpg">
+                            <img src="images/award.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-1.jpg">
+                            <img src="images/award.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-1.jpg">
+                            <img src="images/award.jpg">
                         </div>
                     </div>
                 </div>
@@ -121,22 +121,22 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-2.jpg">
+                            <img src="images/awards.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-2.jpg">
+                            <img src="images/awards.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-2.jpg">
+                            <img src="images/awards.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-2.jpg">
+                            <img src="images/awards.jpg">
                         </div>
                     </div>
                 </div>
@@ -146,22 +146,22 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-3.jpg">
+                            <img src="images/id_card.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-4.jpg">
+                            <img src="images/id_card.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-3.jpg">
+                            <img src="images/id_card.jpg">
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-4 col-6">
                         <div class="award-img">
-                            <img src="images/awards-img-4.jpg">
+                            <img src="images/id_card.jpg">
                         </div>
                     </div>
                 </div>

@@ -4,7 +4,7 @@
                 
                 <div class="row">
 					<div class="col-md-12 col-sm-12" style="text-align: center; padding-bottom:45px; ">
-                        <img src="images/logo.png" style="background: #FFFFFF; max-width:300px;  padding:10px 15px;border-radius: 10px; ">
+                        <img src="images/logo.png" style="background: #FFFFFF; max-width:200px;  padding:10px 15px;border-radius: 10px; ">
                     </div>
                 </div>
                 
@@ -12,7 +12,7 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="footerWidget">
 							<h3>About Us</h3>
-							<p>Elsevir International Publications is a popular innovative book publisher of educational, fiction, non-fiction, children’s literature, scholarly materials including Medicine, Engineering, Science and Technology. We Publish book in almost all regional languages with global distribution and social media promotion.</p>
+							<p>Skyline Global Publications is a popular innovative book publisher of educational, fiction, non-fiction, children’s literature, scholarly materials including Medicine, Engineering, Science and Technology. We Publish book in almost all regional languages with global distribution and social media promotion.</p>
                             <ul class="socialLinks">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -39,7 +39,7 @@
                             
                             <div class="footerItem">
 								<span class="infoTitle"><i class="fa fa-map-marker"></i></span>
-								<span>Elsevir International Publications,<br>
+								<span>Skyline Global Publications,<br>
                                     No. 78/2 Thiruvarur road<br>
 									Mayiladuthurai, 609001,<br>
 									Tamilnadu, India
@@ -75,7 +75,7 @@
 			<div class="container">
                 <div class="row">
 					<div class="col-md-12 col-sm-12">
-                        <p style="text-align: center;">Copy right us <?php echo date('Y'); ?>  &copy; Elsevir International Publications. Website designed by <a href="https://do365tech.com/" target="_blank" style="color:#fff;">DO365 Technologies Pvt Ltd.</a></p>
+                        <p style="text-align: center;">Copyright us <?php echo date('Y'); ?>  &copy; Skyline Global Publications. Website designed by <a href="https://do365tech.com/" target="_blank" style="color:#fff;">DO365 Technologies Pvt Ltd.</a></p>
                     </div>
                     
                 </div>  

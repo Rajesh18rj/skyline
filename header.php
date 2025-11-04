@@ -4,7 +4,7 @@ include 'dbconfig.php';
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Elsevir International Publications</title>
+		<title>Skyline Global Publications</title>
 	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
 	    <meta name="author" content="" />
@@ -37,7 +37,7 @@ include 'dbconfig.php';
 		    <nav class="navSection navbar navbar-expand-md w-100">
 		        <div class="container">
 		        	 <a class="navbar-brand" href="index.php">
-		                <img src="images/logo.png">
+		                <img src="images/logonew.png" style="width: 80px; height: 80px; background-color: transparent; margin-top: -8px; ">
 		            </a>
 		           
 		            <button class="navbar-toggler customToggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">

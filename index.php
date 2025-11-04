@@ -24,9 +24,9 @@
 			<div class="col-12 mb-md-4">
 				<div class="mainTitle">
 					<h5>Greetings & Welcome</h5>
-					<h2> International Publications (EIP)</span></h2>
+					<h2> Skyline Global Publications</span></h2>
 					<p style="line-height: 28px;font-size: 14px; text-align: justify; color: #000000;">
-						Elsevier is a globally recognized publishing company specializing in academic and professional content. Elsevier's textbook promotion strategy centers on showcasing its commitment to authoritative, globally relevant educational resources. They emphasize the expertise of their authors, highlighting rigorous scholarship and cutting-edge content across diverse disciplines like Medicine, Engineering, Scientific, Technical, Management, Agriculture, Arts and Science, Biotechnology, Photography, Religion, Reference Encyclopedias, and Law Books. Partnerships with educational institutions and targeted online marketing campaigns reach students and educators worldwide. Online catalogs provide detailed information, while review copies and sales representatives facilitate adoption. International editions cater to diverse regional needs, and participation in academic conferences ensures visibility. Supplemental learning materials and integration with online platforms further enhance the learning experience, while bestseller status within subject areas bolsters credibility. Ultimately, Elsevier aims to empower students and educators with high-quality, accessible textbooks that drive academic success.
+						Skyline is a globally recognized publishing company specializing in academic and professional content. Skyline's textbook promotion strategy centers on showcasing its commitment to authoritative, globally relevant educational resources. They emphasize the expertise of their authors, highlighting rigorous scholarship and cutting-edge content across diverse disciplines like Medicine, Engineering, Scientific, Technical, Management, Agriculture, Arts and Science, Biotechnology, Photography, Religion, Reference Encyclopedias, and Law Books. Partnerships with educational institutions and targeted online marketing campaigns reach students and educators worldwide. Online catalogs provide detailed information, while review copies and sales representatives facilitate adoption. International editions cater to diverse regional needs, and participation in academic conferences ensures visibility. Supplemental learning materials and integration with online platforms further enhance the learning experience, while bestseller status within subject areas bolsters credibility. Ultimately, Skyline aims to empower students and educators with high-quality, accessible textbooks that drive academic success.
           </p>
 				</div>
 			</div>
@@ -45,7 +45,7 @@
 					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;Lowest Publication Fee</li>
 					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;A Govt registered Company and Registered under MSME.</li>
 					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;Complementary Books to each Authors.</li>
-					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;100% royalty is paid on each book sold.</li>
+					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;10% royalty is paid on each book sold.</li>
 					<li><i class="fa fa-check"></i>  &nbsp;&nbsp;Publishing book with DoI Number. </li>
 					<li><i class="fa fa-check"></i>	 &nbsp;&nbsp;Partnership with global distributors like Amazon, Flipkart etc.,</li>
 					<li><i class="fa fa-check"></i>	 &nbsp;&nbsp;Bestselling titles in Research and Engineering in Colleges.</li>

@@ -136,13 +136,13 @@ function imageupload($filename,$foldername,$full_file){
             <div class="col-md-4">
                 <div class="addressWidget">
                     <p style="text-align: justify;">
-                        Elsevir International Publications is a popular innovative book publisher of educational, fiction, non-fiction, children’s literature, scholarly materials including Medicine, Engineering, Science and Technology. We Publish book in almost all regional languages with global distribution and social media promotion.
+                        Skyline Global Publications is a popular innovative book publisher of educational, fiction, non-fiction, children’s literature, scholarly materials including Medicine, Engineering, Science and Technology. We Publish book in almost all regional languages with global distribution and social media promotion.
                     </p>
                     
                     <div class="addBox">
                         <h5>Address</h5>
                         <p>
-                             Elsevir International Publications,<br>
+                             Skyline Global Publications,<br>
                             No. 78/2 Thiruvarur road<br>
 							Mayiladuthurai, 609001,<br>
 							Tamilnadu, India
@@ -172,54 +172,54 @@ function imageupload($filename,$foldername,$full_file){
 </section>
 
 
-<section class="products" style="background-image: none; padding-bottom: 0px;">
-	<div class="container">
-		<div class="row">
-			<div class="col-12 mb-md-4">
-				<div class="mainTitle">
-					<h2>Trending <span>Products</span></h2>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<div class="productSlider owl-carousel owl-theme">
-
-					<?php 
-
-						error_reporting(E_ALL);
-  					ini_set('display_errors', 1);
-
-						include_once 'eip-admin/class/product_class.php';
-
-              $result = new Product();
-              $datas = $result->fetch_product_home();
-              $i = 1;
-              foreach ($datas as $data) { 
-              	
-             ?>
-
-			    <div class="card product-card">
-			    	<div class="productImg">
-		        	<img class="card-img-top card-img-back" src="/eip-admin/uploads/product_images/<?php echo $data['imagelist']; ?>">
-		        </div>
-		        <div class="card-info">
-	            <div class="card-footer bg-transparent border-0">
-                <div class="product-link d-flex align-items-center justify-content-center">
-                	<a class="customBtn" href="products.php">Buy Now</a>
-                </div>
-	            </div>
-		        </div>
-			    </div>
-			    <?php
-			     } 
-                 
-          ?>
-                    
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+<!--<section class="products" style="background-image: none; padding-bottom: 0px;">-->
+<!--	<div class="container">-->
+<!--		<div class="row">-->
+<!--			<div class="col-12 mb-md-4">-->
+<!--				<div class="mainTitle">-->
+<!--					<h2>Trending <span>Products</span></h2>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
+<!--		<div class="row">-->
+<!--			<div class="col-12">-->
+<!--				<div class="productSlider owl-carousel owl-theme">-->
+<!---->
+<!--					--><?php //
+//
+//						error_reporting(E_ALL);
+//  					ini_set('display_errors', 1);
+//
+//						include_once 'eip-admin/class/product_class.php';
+//
+//              $result = new Product();
+//              $datas = $result->fetch_product_home();
+//              $i = 1;
+//              foreach ($datas as $data) {
+//
+//             ?>
+<!---->
+<!--			    <div class="card product-card">-->
+<!--			    	<div class="productImg">-->
+<!--		        	<img class="card-img-top card-img-back" src="/eip-admin/uploads/product_images/--><?php //echo $data['imagelist']; ?><!--">-->
+<!--		        </div>-->
+<!--		        <div class="card-info">-->
+<!--	            <div class="card-footer bg-transparent border-0">-->
+<!--                <div class="product-link d-flex align-items-center justify-content-center">-->
+<!--                	<a class="customBtn" href="products.php">Buy Now</a>-->
+<!--                </div>-->
+<!--	            </div>-->
+<!--		        </div>-->
+<!--			    </div>-->
+<!--			    --><?php
+//			     }
+//
+//          ?>
+<!--                    -->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
+<!--</section>-->
 
 <?php include 'footer.php'; ?>

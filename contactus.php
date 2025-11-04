@@ -122,7 +122,7 @@ if(isset($_POST['submit'])){
                     <div class="addBox">
                         <h5>Address</h5>
                         <p>
-                            Elsevir International Publications,<br>
+                            Skyline Global Publications,<br>
                             No. 78/2 Thiruvarur road<br>
 							Mayiladuthurai, 609001,<br>
 							Tamilnadu, India

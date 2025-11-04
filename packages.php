@@ -79,8 +79,8 @@ function imageupload($filename,$foldername,$full_file){
     </h3>
     <ul class="plan-features">
       <li><span class="plan-ld">No of copies</span> <span  class="plan-rd">5</span></li>
-      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">100%</span></li>
-      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">AIP, Flipkart, Amazon </span></li>
+      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">0%</span></li>
+      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">Flipkart, Amazon </span></li>
       <li><span class="plan-ld">Shipping fee </span> <span  class="plan-rd">Free</span></li>
       <li><span class="plan-ld">Publication certificate</span> <span  class="plan-rd"> 	Yes</span></li>
       <li><span class="plan-ld">Cover page	</span> <span  class="plan-rd">Color</span></li>
@@ -98,8 +98,8 @@ function imageupload($filename,$foldername,$full_file){
     </h3>
     <ul class="plan-features">
       <li><span class="plan-ld">No of copies</span> <span  class="plan-rd">8</span></li>
-      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">100%</span></li>
-      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">AIP, Flipkart, Amazon </span></li>
+      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">0%</span></li>
+      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">Flipkart, Amazon </span></li>
       <li><span class="plan-ld">Shipping fee </span> <span  class="plan-rd">Free</span></li>
       <li><span class="plan-ld">Publication certificate</span> <span  class="plan-rd"> 	Yes</span></li>
       <li><span class="plan-ld">Cover page	</span> <span  class="plan-rd">Color</span></li>
@@ -118,8 +118,8 @@ function imageupload($filename,$foldername,$full_file){
     </h3>
     <ul class="plan-features">
       <li><span class="plan-ld">No of copies</span> <span  class="plan-rd">10</span></li>
-      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">100%</span></li>
-      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">AIP, Flipkart, Amazon </span></li>
+      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">10%</span></li>
+      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">Flipkart, Amazon </span></li>
       <li><span class="plan-ld">Shipping fee </span> <span  class="plan-rd">Free</span></li>
       <li><span class="plan-ld">Publication certificate</span> <span  class="plan-rd"> 	Yes</span></li>
       <li><span class="plan-ld">Cover page	</span> <span  class="plan-rd">Color</span></li>
@@ -137,8 +137,8 @@ function imageupload($filename,$foldername,$full_file){
     </h3>
     <ul class="plan-features">
       <li><span class="plan-ld">No of copies</span> <span  class="plan-rd">15</span></li>
-      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">100%</span></li>
-      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">AIP, Flipkart, Amazon </span></li>
+      <li><span class="plan-ld">Royalty </span> <span  class="plan-rd">10%</span></li>
+      <li><span class="plan-ld">Promotions </span> <span  class="plan-rd">Flipkart, Amazon </span></li>
       <li><span class="plan-ld">Shipping fee </span> <span  class="plan-rd">Free</span></li>
       <li><span class="plan-ld">Publication certificate</span> <span  class="plan-rd"> 	Yes</span></li>
       <li><span class="plan-ld">Cover page	</span> <span  class="plan-rd">Color</span></li>

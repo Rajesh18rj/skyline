@@ -52,7 +52,7 @@
 							</div>
 							<div class="footerItem">
 								<span class="infoTitle"><i class="fa fa-envelope-o"></i></span>
-								<span>editoreip25@gmail.com</span>
+								<span>editorsgp25@gmail.com</span>
 							</div>
 							
 						</div>

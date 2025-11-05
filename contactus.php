@@ -130,7 +130,7 @@ if(isset($_POST['submit'])){
                     </div>
                     <div class="addBox">
                         <h5>Email</h5>
-                        <p>editoreip25@gmail.com</p>
+                        <p>editorsgp25@gmail.com</p>
                     </div>
                     <div class="addBox">
                         <h5>Phone</h5>

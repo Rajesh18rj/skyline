@@ -129,7 +129,7 @@ function imageupload($filename,$foldername,$full_file){
                     </div>
                     
                     <div class="col-12">
-                        <p>or Submit your content through <a href="mailto:editoreip25@gmail.com">editoreip25@gmail.com</a></p>
+                        <p>or Submit your content through <a href="mailto:editoreip25@gmail.com">editorsgp25@gmail.com</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ function imageupload($filename,$foldername,$full_file){
                     <div class="addBox">
                         <h5>Email</h5>
                         <p>
-                           editoreip25@gmail.com
+                            editorsgp25@gmail.com
                         </p>
                     </div>
                     <div class="addBox">
